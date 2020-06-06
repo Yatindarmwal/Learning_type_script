@@ -1,0 +1,22 @@
+{
+  "name": "learning_type_script",
+  "version": "1.0.0",
+  "description": "Learning_type_script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yatindarmwal/Learning_type_script.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yatindarmwal/Learning_type_script/issues"
+  },
+  "homepage": "https://github.com/Yatindarmwal/Learning_type_script#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
