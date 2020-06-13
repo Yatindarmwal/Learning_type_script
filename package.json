@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Yatindarmwal/Learning_type_script#readme",
   "dependencies": {
     "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.5"
   }
 }
