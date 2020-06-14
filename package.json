@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/Yatindarmwal/Learning_type_script#readme",
   "dependencies": {
-    "axios": "^0.19.2"
+    "@types/faker": "^4.1.12",
+    "axios": "^0.19.2",
+    "faker": "^4.1.0"
   },
   "devDependencies": {
     "typescript": "^3.9.5"
