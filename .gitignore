@@ -1,5 +1,5 @@
-Map_user_company/node_modules
+Map_user_company/node_modules/*
 Map_user_company/dist/*
 Map_user_company/.cache/*
 sort/build
-sort/node_modules
+sort/node_modules/*
