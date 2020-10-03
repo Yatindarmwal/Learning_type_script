@@ -7,5 +7,7 @@ import { HtmlReport } from './reportTargets/HtmlReport';
 let csvFileReader = new CsvFileReader('football.csv');
 let matchReader = new MatchReader(csvFileReader);
 matchReader.load();
-const summery = new Summery(new WinsAnalysis('Man United'), new HtmlReport());
+// const summery = new Summery(new WinsAnalysis('Man United'), new HtmlReport());
+// summery.buildAndPrintReport(matchReader.matches);
+const summery = Summery.winsAnalysisWithHtmlReport('Man United');
 summery.buildAndPrintReport(matchReader.matches);
