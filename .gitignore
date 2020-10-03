@@ -6,7 +6,5 @@ sort/build
 sort/node_modules/*
 .vscode/*
 sort/node_modules
-stats/build
-stats/node_modules
 stats/build/*
 stats/node_modules/*
